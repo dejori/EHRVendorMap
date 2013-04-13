@@ -1,0 +1,1001 @@
+EHRProductVersion,AttestationID,ProviderID,ProductClassification,PaymentYear,ProviderType,ProgramYear,Specialty,ProductSetting,ProgramType,BusinessState/Territory,VendorName,EHRProductName,AttestationYear,AttestationMonth
+11.2,158113,1,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2012,11
+2011,152211,2,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,VA,"MPN Software Systems, Inc.",ECLIPSE,2012,9
+9.5,79097,3,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IN,GE Healthcare,Centricity Practice Solution,2012,9
+6.1.1,170314,4,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,MI,"AmazingCharts.com, Inc.",Amazing Charts,2012,2
+2010,55557,5,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+2,136980,6,Complete EHR,1,EP,2011,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,IA,Practice Fusion,Practice Fusion,2012,1
+5.6 SP1,27926,7,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2012,1
+2011,22022,8,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,CO,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+9,116692,9,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,CA,"AllMeds, Inc.",AllMeds EHR,2012,6
+2011,115835,10,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,FL,"SOAPware, Inc.",SOAPware,2011,11
+2010,53458,11,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,ND,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+7.2,150991,12,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,AZ,"e-MDs, Inc.",e-MDs Solution Series,2013,1
+7.2,149823,12,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,AZ,"e-MDs, Inc.",e-MDs Solution Series,2012,2
+5.6 SP1,35677,13,Complete EHR,2,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,IL,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+5.6 SP1,27143,13,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,IL,NextGen Healthcare,NextGen Ambulatory EHR,2011,12
+Summer 2009,100902,14,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+12.1,190550,15,Complete EHR,1,EP,2012,ANESTHESIOLOGY,Ambulatory,Medicare,TX,Allscripts,Allscripts Professional EHR,2013,1
+9.5,78941,16,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AL,GE Healthcare,Centricity Practice Solution,2012,4
+2011,20589,17,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,GA,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,6
+2010,56600,18,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+Summer 2009,98580,19,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+11.2,25482,20,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,Allscripts,Allscripts Enterprise EHR,2012,12
+9.2.2,145054,21,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MI,Allscripts,Allscripts Professional EHR,2012,5
+9,7285,22,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,TX,eClinicalWorks LLC,eClinicalWorks,2012,1
+4,108672,23,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,TX,Intuitive Medical Software,UroChartEHR,2013,1
+5.6 SP1,27579,24,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2011,12
+5.6 SP1,36113,24,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+9,192842,25,Complete EHR,1,EP,2012,DERMATOLOGY,Ambulatory,Medicare,KS,eClinicalWorks LLC,eClinicalWorks,2013,1
+7.2,150302,26,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,KS,"e-MDs, Inc.",e-MDs Solution Series,2012,10
+2012,191516,27,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Massachusetts General Hospital,Oncall,2013,1
+Summer 2009,87323,28,Complete EHR,1,EP,2011,ENDOCRINOLOGY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,6
+2010,59859,28,Complete EHR,2,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+5.6 SP1,29827,29,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,WI,NextGen Healthcare,NextGen Ambulatory EHR,2012,5
+9.5,41107,30,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,ID,GE Healthcare,Centricity EMR,2012,2
+Spring 2008,80270,31,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,KY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+v10.1,171235,32,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,PA,Allscripts,Allscripts MyWay EHR,2012,12
+5.6 SP1,35343,33,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NC,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+7.6,80929,34,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,SC,Medflow,Medflow E HR,2011,12
+9.3,172414,35,Complete EHR,1,EP,2012,DERMATOLOGY,Ambulatory,Medicare,AL,Allscripts,Allscripts Professional EHR,2012,7
+2011,18570,36,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,MN,"Greenway Medical Technologies, Inc.",PrimeSuite,2011,9
+11.2,134383,37,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,NY,Allscripts,Allscripts Enterprise EHR,2012,9
+4.1,142631,38,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,TX,OEMR,OpenEMR,2012,8
+1.2,169124,39,Modular EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,CT,Jardogs,Follow My Health,2012,2
+1.2,169553,39,Modular EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CT,Jardogs,Follow My Health,2013,1
+11.2,169553,39,Modular EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CT,Allscripts,Allscripts Enterprise EHR,2013,1
+11.2,169124,39,Modular EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,CT,Allscripts,Allscripts Enterprise EHR,2012,2
+10.6,178618,40,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,KS,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+12.5,178807,41,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,TX,"athenahealth, Inc",athenaClinicals,2012,5
+5.6 SP1,31412,42,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2012,8
+9.5,79016,43,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NY,GE Healthcare,Centricity Practice Solution,2012,7
+1.3,175196,44,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,IA,Jardogs,Follow My Health,2012,10
+11.2,175196,44,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,IA,Allscripts,Allscripts Enterprise EHR,2012,10
+Summer 2009,94804,45,Complete EHR,1,EP,2011,CARDIAC SURGERY,Ambulatory,Medicare,IA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+5.7,180103,46,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,TX,NextGen Healthcare,NextGen Ambulatory EHR,2012,11
+5.6 SP1,180103,46,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,TX,NextGen Healthcare,NextGen Ambulatory EHR,2012,11
+2010,55836,47,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+9.5,42316,48,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,NY,GE Healthcare,Centricity EMR,2012,6
+5.6 SP1,35683,49,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NY,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+5.6 SP1,27752,49,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,NY,NextGen Healthcare,NextGen Ambulatory EHR,2012,1
+1.1.1.4,184847,50,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,CA,First Insight Corp,MaximEyes SQL Electronic Health Records,2012,12
+Summer 2009,91986,51,Complete EHR,1,EP,2011,DERMATOLOGY,Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+11.11,168545,52,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,"athenahealth, Inc",athenaClinicals,2011,12
+7,86350,53,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,FL,"ChartLogic, Inc.",ChartLogic EHR,2012,7
+1.18.2,184498,54,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,FL,"Falcon, LLC.",Falcon EHR,2012,10
+2011.07,160745,55,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,AL,Cerner Corporation,HealthSentry,2012,12
+2010.02.03,160745,55,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,AL,Cerner Corporation,Powerchart and Cerner Healthe,2012,12
+6.1,160745,55,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,AL,UAB Health System,MyHealth@UABMedicine,2012,12
+Summer 2009,90291,56,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+1.1,126043,57,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,GA,TactusMD,TactusMD? EHR,2012,12
+11.9,146754,58,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,SD,"athenahealth, Inc",athenaClinicals,2011,10
+9.5,44006,59,Complete EHR,1,EP,2012,NEUROSURGERY,Ambulatory,Medicare,OH,GE Healthcare,Centricity EMR,2012,11
+9,9302,60,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MD,eClinicalWorks LLC,eClinicalWorks,2012,5
+2010,48122,61,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,VA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+5.1.1,447,62,Complete EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,NY,Sammy Systems,SammyEHR,2012,12
+10.3.1,113496,63,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IL,McKesson,Horizon Ambulatory Care,2012,11
+Summer 2009,92702,64,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,WA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+2011,22869,65,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,ID,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+2011,20877,66,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,WV,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,8
+"2012.01.01, P2 Sentinel v4.5.2",188774,67,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel",2012,12
+version 1.1,188774,67,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,PA,HealthPort,eSmartLog,2012,12
+2012.01.05 and P2 Sentinel v. 4.5.2,188774,67,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel",2012,12
+9.3,172281,68,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,NJ,Allscripts,Allscripts Professional EHR,2012,6
+9.5,45293,69,Complete EHR,2,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AL,GE Healthcare,Centricity EMR,2013,1
+9.5,39816,69,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AL,GE Healthcare,Centricity EMR,2011,10
+5.7,179893,70,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2012,10
+11.2,25556,71,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,NC,Allscripts,Allscripts Enterprise EHR,2012,12
+9.2,73866,72,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WV,Allscripts,Allscripts Professional EHR,2012,4
+11.2,24819,73,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,TN,Allscripts,Allscripts Enterprise EHR,2012,10
+10,1577,74,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,IL,Compulink,Advantage/EHR,2012,3
+2010,56108,75,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+9.5,78318,76,Complete EHR,1,EP,2011,ORTHOPEDIC SURGERY,Ambulatory,Medicare,MO,GE Healthcare,Centricity Practice Solution,2011,12
+10,193285,77,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MI,Allscripts,Allscripts Professional EHR,2013,1
+9.2.2,143948,77,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,MI,Allscripts,Allscripts Professional EHR,2011,10
+7.1,141461,78,Complete EHR,2,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,OH,ACOM Health,RAPID,2013,1
+7.1,141315,78,Complete EHR,1,EP,2011,CHIROPRACTIC,Ambulatory,Medicare,OH,ACOM Health,RAPID,2012,1
+Summer 2009,91741,79,Complete EHR,1,EP,2011,NEUROSURGERY,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+Summer 2009,100179,79,Complete EHR,2,EP,2012,NEUROSURGERY,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+5.9,161455,80,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,WI,Marshfield Clinic,Cattails Software Suite,2012,6
+2010,48186,81,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,MI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+2010,60972,82,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010,61149,83,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,SD,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Summer 2009,98638,84,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+4.13.0,115246,85,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,AZ,"gMed, Inc.",gGastro,2011,12
+4.16.2,189380,85,Complete EHR,2,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,AZ,"gMed, Inc.",gGastro,2013,1
+11.2,133797,86,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,NC,Allscripts,Allscripts Enterprise EHR,2011,12
+2,69157,87,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,TX,BioMedix Vascular Solutions,TRAKnet Practice Management Software,2011,9
+10,120332,88,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,GE Healthcare,Centricity Practice Solution,2012,6
+7.5,77403,89,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,NE,"MedInformatix, Inc",MedInformatix,2012,11
+9,14934,90,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AR,eClinicalWorks LLC,eClinicalWorks,2013,1
+2,186119,91,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CA,Dignity Health,Dignity Health Ambulatory EHR,2012,12
+2010,51546,92,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,FL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,8
+11.2,24915,93,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,CA,Allscripts,Allscripts Enterprise EHR,2012,10
+2,137833,94,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,VA,Practice Fusion,Practice Fusion,2012,7
+Summer 2009,99261,95,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+9,116875,96,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,MI,"AllMeds, Inc.",AllMeds EHR,2012,11
+13.1,194241,97,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TN,"athenahealth, Inc",athenaClinicals,2013,1
+Summer 2009,91068,98,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+2011.06,160473,99,Modular EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,MN,Cerner Corporation,HealthSentry,2012,12
+2010.01.07,160473,99,Modular EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,MN,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2012,12
+10,120638,100,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NY,GE Healthcare,Centricity Practice Solution,2012,10
+3,77960,101,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OH,"eHealth Made EASY, LLC",eHealth Made EASY,2012,4
+9.5,79205,102,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MO,GE Healthcare,Centricity Practice Solution,2012,11
+7,171880,103,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,LA,OptumInsight,Optum PM and Physician EMR,2013,1
+7.2,150770,104,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WY,"e-MDs, Inc.",e-MDs Solution Series,2013,1
+2010,185236,105,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Version 4,185236,105,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,PA,dbMotion Inc.,dbMotion,2013,1
+Summer 2009,112759,106,Complete EHR,1,EP,2011,ANESTHESIOLOGY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,2
+2010,112759,106,Complete EHR,1,EP,2011,ANESTHESIOLOGY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,2
+Spring 2008,112759,106,Complete EHR,1,EP,2011,ANESTHESIOLOGY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,2
+Summer 2009,118265,107,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,WA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,9
+2010,118265,107,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,WA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,9
+2007.19.13,166323,108,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Cerner Corporation,Powerchart and Cerner Healthe,2013,1
+2011.07,166323,108,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+3.4,166323,108,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,"MedSeek, Inc.",eHealth ecoSystem,2013,1
+7.6,81237,109,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,MI,Medflow,Medflow E HR,2012,8
+11.2,157068,110,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CO,Allscripts,Allscripts Enterprise EHR,2012,6
+Summer 2009,97239,111,Complete EHR,1,EP,2012,ORAL SURGERY (DENTIST ONLY),Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,8
+2,138551,112,Complete EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,PA,Practice Fusion,Practice Fusion,2012,10
+5.1,167598,113,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,WA,"Integrated Practice Solutions, Inc.",ChiroTouch,2012,10
+19.5,66994,114,Complete EHR,1,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,MA,"Community Computer Service, Inc.",MEDENT,2013,1
+5.6.4,142884,115,Modular EHR,2,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,WA,MEDITECH,MEDITECH MAGIC HCIS Core Set (Modular),2012,11
+5.6.4,142866,115,Modular EHR,1,Hospital,2011,N/A,Inpatient,Medicare/Medicaid,WA,MEDITECH,MEDITECH MAGIC HCIS Core Set (Modular),2011,10
+4,142884,115,Complete EHR,2,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,WA,"Health Care Systems, Inc.",HCS eMR,2012,11
+4,142866,115,Complete EHR,1,Hospital,2011,N/A,Inpatient,Medicare/Medicaid,WA,"Health Care Systems, Inc.",HCS eMR,2011,10
+9,116471,116,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,CA,"AllMeds, Inc.",AllMeds EHR,2011,12
+9,116992,116,Complete EHR,2,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,CA,"AllMeds, Inc.",AllMeds EHR,2013,1
+9.5,39765,117,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,CA,GE Healthcare,Centricity EMR,2011,9
+2010,54969,118,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NV,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+v8.3,186951,119,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,PA,SRSsoft,SRS EHR,2012,10
+1.2.0,186951,119,Modular EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,PA,"Universal Research Solutions, LLC",OBERD,2012,10
+2010,58184,120,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+9,12594,121,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,TX,eClinicalWorks LLC,eClinicalWorks,2012,11
+Summer 2009,89929,122,Complete EHR,1,EP,2011,VASCULAR SURGERY,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+Summer 2009,94199,123,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+5.5,107674,124,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,"Prime Clinical Systems, Inc.",Patient Chart Manager,2012,12
+Summer 2009,91499,125,Complete EHR,1,EP,2011,PAIN MANAGEMENT,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+Summer 2009,92406,126,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+Summer 2009,100172,127,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+10,120787,128,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,PA,GE Healthcare,Centricity Practice Solution,2012,12
+11.2,175405,129,Modular EHR,1,EP,2012,INFECTIOUS DISEASE,Ambulatory,Medicare,IA,Allscripts,Allscripts Enterprise EHR,2012,11
+1.3,175405,129,Modular EHR,1,EP,2012,INFECTIOUS DISEASE,Ambulatory,Medicare,IA,Jardogs,Follow My Health,2012,11
+6,175828,130,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WI,IOD Incorporated,PRISM,2012,10
+2010,175828,130,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+11.2,158674,131,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IL,Allscripts,Allscripts Enterprise EHR,2012,12
+V7.10,163125,132,Complete EHR,1,EP,2012,GENERAL PRACTICE,Ambulatory,Medicare,NJ,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,2013,1
+10,124962,133,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,MI,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,12
+5.5,101929,134,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Inpatient,Medicare,WI,Allscripts,Sunrise Acute Care,2013,1
+6.1.2,170106,135,Complete EHR,1,EP,2012,PEDIATRIC MEDICINE,Ambulatory,Medicare,NY,"AmazingCharts.com, Inc.",Amazing Charts,2012,6
+9.5,43961,136,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,ND,GE Healthcare,Centricity EMR,2012,11
+V7.10,162762,137,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,NY,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,2012,11
+9.5,44282,138,Complete EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,VA,GE Healthcare,Centricity EMR,2012,11
+9.5.1,126911,139,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,TX,McKesson,Practice Partner,2012,11
+4.13.0,115327,140,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,AZ,"gMed, Inc.",gGastro,2012,1
+4.16.2,189418,140,Complete EHR,2,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,AZ,"gMed, Inc.",gGastro,2013,1
+5.6 SP1,34631,141,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,NC,NextGen Healthcare,NextGen Ambulatory EHR,2012,12
+10.5,179293,142,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,OR,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,11
+2,186152,143,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,CA,Dignity Health,Dignity Health Ambulatory EHR,2012,12
+11.2,24726,144,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CO,Allscripts,Allscripts Enterprise EHR,2012,9
+9,12928,145,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2012,11
+9,10758,146,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,NY,eClinicalWorks LLC,eClinicalWorks,2012,8
+8,110952,147,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,MI,"Addison Health Systems, Inc.",WritePad,2013,1
+5.6 SP1,28185,148,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2012,1
+11.2,25141,149,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MI,Allscripts,Allscripts Enterprise EHR,2012,11
+2,138464,150,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,CA,Practice Fusion,Practice Fusion,2012,10
+9.5,41595,151,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,NY,GE Healthcare,Centricity EMR,2012,2
+X11,84324,152,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,TX,"MicroFour, Inc.",PracticeStudio,2013,1
+4,108266,153,Complete EHR,1,EP,2011,UROLOGY,Ambulatory,Medicare,OH,Intuitive Medical Software,UroChartEHR,2012,2
+9,13745,154,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IL,eClinicalWorks LLC,eClinicalWorks,2012,12
+5.6 SP1,31431,155,Complete EHR,1,EP,2012,RHEUMATOLOGY,Ambulatory,Medicare,MD,NextGen Healthcare,NextGen Ambulatory EHR,2012,8
+6,111394,156,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,TX,Health IT Services Group,Acumen EHR,2012,11
+2010,62799,157,Complete EHR,1,EP,2012,ANESTHESIOLOGY,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Summer 2009,93835,158,Complete EHR,1,EP,2011,MEDICAL ONCOLOGY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+2,186135,159,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,CA,Dignity Health,Dignity Health Ambulatory EHR,2012,12
+2010,54867,160,Complete EHR,1,EP,2012,CRITICAL CARE (INTENSIVISTS),Ambulatory,Medicare,MN,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+v7,155277,161,Complete EHR,2,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AZ,Sage,Sage Intergy Meaningful Use Edition,2013,1
+v7,154941,161,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AZ,Sage,Sage Intergy Meaningful Use Edition,2012,1
+5.6 SP1,29220,162,Complete EHR,1,EP,2011,RHEUMATOLOGY,Ambulatory,Medicare,TX,NextGen Healthcare,NextGen Ambulatory EHR,2012,2
+3.6.0,67598,163,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,AZ,Office Ally,EHR 24/7,2012,9
+Summer 2009,90381,164,Complete EHR,1,EP,2011,INFECTIOUS DISEASE,Ambulatory,Medicare,NH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+5.6 SP1,30657,165,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,KS,NextGen Healthcare,NextGen Ambulatory EHR,2012,7
+2012.M10.18,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.22,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.16,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.16,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.13,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2013,1
+2012.M09.20,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.16,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.16,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.13,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2013,1
+2012.M10.25,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.16,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.20,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.23,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.17,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.21,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.18,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.16,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.21,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.23,192339,166,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.17,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.25,192339,166,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+7,46355,167,Complete EHR,1,EP,2011,NEPHROLOGY,Ambulatory,Medicare,GA,"e-MDs, Inc.",e-MDs Solution Series,2011,11
+Summer 2009,91033,168,Complete EHR,1,EP,2011,PEDIATRIC MEDICINE,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+5.6 SP1,36364,169,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,TX,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+7.5,77040,170,Complete EHR,1,EP,2011,INTERVENTIONAL PAIN MANAGEMENT,Ambulatory,Medicare,NY,"MedInformatix, Inc",MedInformatix,2012,1
+3,125364,171,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,NC,Crowell Systems,Medformix XXV,2013,1
+1.1.1.6,193564,172,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,CO,First Insight Corp,MaximEyes SQL Electronic Health Records,2013,1
+5.1.1,322,173,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,FL,Sammy Systems,SammyEHR,2012,2
+v5.5,153023,174,Complete EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,TN,MD Logic EMR,MD Logic World Wide EMR,2012,10
+7,46745,175,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,FL,"e-MDs, Inc.",e-MDs Solution Series,2012,6
+2010,58522,176,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+5.7,179920,177,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NM,NextGen Healthcare,NextGen Ambulatory EHR,2012,12
+9.5,78781,178,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,FL,GE Healthcare,Centricity Practice Solution,2012,2
+9.5,79726,178,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,GE Healthcare,Centricity Practice Solution,2013,1
+7.2,150986,179,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,AZ,"e-MDs, Inc.",e-MDs Solution Series,2013,1
+4,151458,180,Complete EHR,1,EP,2012,ANESTHESIOLOGY,Ambulatory,Medicare,TX,UT MD Anderson Cancer Center,ClinicStation,2013,1
+4,108401,181,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,SC,Intuitive Medical Software,UroChartEHR,2012,9
+10,1142,182,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,RI,Compulink,Advantage/EHR,2011,12
+9.5,42734,183,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,FL,GE Healthcare,Centricity EMR,2012,7
+6.9,185823,184,Complete EHR,1,EP,2012,ANESTHESIOLOGY,Inpatient,Medicare,MN,GE Healthcare,"Centricity Enterprise (CE) 6.9, including Enterprise Orders, Gemini Orders, CE M",2013,1
+V12.0,185823,184,Modular EHR,1,EP,2012,ANESTHESIOLOGY,Ambulatory,Medicare,MN,GE Healthcare,Centricity Patient Online,2013,1
+6.9,185823,184,Complete EHR,1,EP,2012,ANESTHESIOLOGY,Ambulatory,Medicare,MN,GE Healthcare,Centricity Enterprise,2013,1
+2012.08,190455,185,Modular EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,NJ,Cerner Corporation,HealthSentry,2013,1
+2012.01.08,190455,185,Modular EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,NJ,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2013,1
+10,120287,186,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,FL,GE Healthcare,Centricity Practice Solution,2012,4
+7.5,77508,187,Complete EHR,1,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,NY,"MedInformatix, Inc",MedInformatix,2012,12
+LMR 9.0,132194,188,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,MA,Partners Healthcare System,Partners Longitudinal Medical Record,2013,1
+10,1041,189,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,NC,Compulink,Advantage/EHR,2011,12
+10,1890,190,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,KS,Compulink,Advantage/EHR,2012,9
+3,112012,191,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,OH,Crystal Practice Management,Crystal Practice Management,2013,1
+Version 4,180814,192,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,dbMotion Inc.,dbMotion,2013,1
+11.2,180814,192,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,Allscripts,Allscripts Enterprise EHR,2013,1
+10.5,180501,193,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,NE,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+10.6,180501,193,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,NE,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+9.2.2,145867,194,Complete EHR,2,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,NC,Allscripts,Allscripts Professional EHR,2013,1
+9.2.2,144242,194,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,NC,Allscripts,Allscripts Professional EHR,2011,12
+2011,23179,195,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,GA,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+9.5,76434,196,Complete EHR,2,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,MO,McKesson,Practice Partner,2013,1
+9.5,76250,196,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,MO,McKesson,Practice Partner,2012,2
+4.16.1,180348,197,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,MD,"gMed, Inc.",gGastro,2012,11
+11.2,156696,198,Complete EHR,1,EP,2012,EMERGENCY MEDICINE,Ambulatory,Medicare,NC,Allscripts,Allscripts Enterprise EHR,2012,4
+6,122301,199,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CA,"Data Strategies, Inc.",MDsuite,2012,11
+5.6 SP1,142697,200,Complete EHR,1,EP,2012,RADIATION ONCOLOGY,Ambulatory,Medicare,OH,NextGen Healthcare,NextGen Ambulatory EHR,2012,10
+2.3,142697,200,Complete EHR,1,EP,2012,RADIATION ONCOLOGY,Ambulatory,Medicare,OH,"Elekta - IMPAC Medical Systems, Inc.",MOSAIQ,2012,10
+version 5.3,182446,201,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,FL,"One Healthcare Solution, Inc.",M5,2012,12
+10.8,75280,202,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,NY,"MCS - Medical Communication Systems, Inc.",iPatientCare,2012,12
+10,1428,203,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,MA,Compulink,Advantage/EHR,2012,1
+2010,50590,204,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,7
+11.2,158665,205,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,SC,Allscripts,Allscripts Enterprise EHR,2012,12
+8.1,143647,206,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,NJ,"MDoffice, Inc.",MDoffice,2012,1
+8.1,143834,206,Complete EHR,2,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NJ,"MDoffice, Inc.",MDoffice,2013,1
+LMR 9.0,132321,207,Complete EHR,1,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,MA,Partners Healthcare System,Partners Longitudinal Medical Record,2013,1
+4.1.0.1144,147320,208,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,AZ,Dox-Starwriter,Dox EMR,2012,2
+9,147320,208,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,AZ,"Acrendo Software, Inc.",A.I.Med Pro,2012,2
+2012,174740,209,Complete EHR,1,EP,2012,ALLERGY/IMMUNOLOGY,Ambulatory,Medicare,FL,"SOAPware, Inc.",SOAPware,2012,7
+1.1.0.0,129454,210,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,MD,First Insight Corp,MaximEyes SQL Electronic Health Records,2012,12
+8.1,143853,211,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NJ,"MDoffice, Inc.",MDoffice,2013,1
+v10.0,174557,212,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,NC,Allscripts,Allscripts MyWay EHR,2012,8
+5.3.0,153283,213,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,IA,Advanced Medical Information Solutions,easyEMR,2011,9
+Version 6.0,153283,213,Modular EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,IA,"AppMed, Inc.",AppMed EMR,2011,9
+4.13.0,115375,214,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,MD,"gMed, Inc.",gGastro,2012,2
+7.6,81540,215,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,OK,Medflow,Medflow E HR,2012,11
+2010,53865,216,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+2011,22679,217,Complete EHR,2,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,NC,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+2011,18716,217,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,NC,"Greenway Medical Technologies, Inc.",PrimeSuite,2011,10
+5.6.5,127184,218,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,CO,LSS Data Systems,Medical and Practice Management (MPM) Client Server,2013,1
+11.2,167137,219,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,TN,Allscripts,Allscripts Enterprise EHR,2012,1
+11.2,167229,219,Complete EHR,2,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,TN,Allscripts,Allscripts Enterprise EHR,2013,1
+11.2,167137,219,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,TN,Allscripts,Allscripts Enterprise EHR,2012,1
+11.2,167229,219,Complete EHR,2,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,TN,Allscripts,Allscripts Enterprise EHR,2013,1
+v10.0,154298,220,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,PA,Allscripts,Allscripts MyWay EHR,2012,2
+LMR 9.0,132135,221,Complete EHR,1,EP,2012,SPORTS MEDICINE,Ambulatory,Medicare,MA,Partners Healthcare System,Partners Longitudinal Medical Record,2013,1
+5.6 SP1,26419,222,Complete EHR,1,EP,2011,PULMONARY DISEASE,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2011,9
+11.2,24908,223,Complete EHR,1,EP,2012,GENERAL PRACTICE,Ambulatory,Medicare,OH,Allscripts,Allscripts Enterprise EHR,2012,10
+9.2,73938,224,Complete EHR,1,EP,2012,INFECTIOUS DISEASE,Ambulatory,Medicare,IL,Allscripts,Allscripts Professional EHR,2012,4
+19.5,64842,225,Complete EHR,1,EP,2011,RHEUMATOLOGY,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2011,9
+9,15270,226,Complete EHR,2,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,VA,eClinicalWorks LLC,eClinicalWorks,2013,1
+9,7187,226,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,VA,eClinicalWorks LLC,eClinicalWorks,2012,1
+5.3.0,142131,227,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,VA,"Health Innovation Technologies, Inc.",RevolutionEHR,2011,12
+5.3.0,142300,227,Complete EHR,2,EP,2012,OPTOMETRY,Ambulatory,Medicare,VA,"Health Innovation Technologies, Inc.",RevolutionEHR,2013,1
+9.5,78235,228,Complete EHR,1,EP,2011,NEUROSURGERY,Ambulatory,Medicare,AZ,GE Healthcare,Centricity Practice Solution,2011,11
+9.5,79497,228,Complete EHR,2,EP,2012,NEUROSURGERY,Ambulatory,Medicare,AZ,GE Healthcare,Centricity Practice Solution,2013,1
+4,177345,229,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MI,"MedSeek, Inc.",eHealth ecoSystem,2012,10
+V11.2,177345,229,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MI,Allscripts,Allscripts Enterprise EHR,2012,10
+7.5.10,105057,230,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,GA,"GEMMS, Inc.",GEMMS ONE,2012,5
+5.5,107486,231,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,CA,"Prime Clinical Systems, Inc.",Patient Chart Manager,2012,2
+Summer 2009,96951,232,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,6
+11.2,134120,233,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,TX,Allscripts,Allscripts Enterprise EHR,2012,6
+6.2,72619,234,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,PA,Sage,Sage Intergy Meaningful Use Edition,2013,1
+6.2,71725,234,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,PA,Sage,Sage Intergy Meaningful Use Edition,2012,2
+v6.4,182161,235,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,NY,McKesson,iKnowMed EHR,2012,8
+6.3,182161,235,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,NY,US Oncology,iKnowMed EHR,2012,8
+Summer 2009,101390,236,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Inpatient,Medicare,AL,Epic Systems Corporation,EpicCare Inpatient - Core EMR,2012,12
+9.2.2,145289,237,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,PA,Allscripts,Allscripts Professional EHR,2012,10
+9.5,40894,238,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,VA,GE Healthcare,Centricity EMR,2012,2
+11.2,24040,239,Complete EHR,1,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,GA,Allscripts,Allscripts Enterprise EHR,2012,6
+2,140804,240,Complete EHR,2,EP,2012,INTERVENTIONAL PAIN MANAGEMENT,Ambulatory,Medicare,FL,Practice Fusion,Practice Fusion,2013,1
+2,135902,240,Complete EHR,1,EP,2011,INTERVENTIONAL PAIN MANAGEMENT,Ambulatory,Medicare,FL,Practice Fusion,Practice Fusion,2011,7
+2010,57225,241,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+2011,152219,242,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,NY,"MPN Software Systems, Inc.",ECLIPSE,2012,10
+Version 10 MR2,129746,243,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,CA,Varian Medical Systems,ARIA for Medical Oncology,2012,9
+v7,155173,244,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IA,Sage,Sage Intergy Meaningful Use Edition,2012,12
+9.2,73270,245,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,NJ,Allscripts,Allscripts Professional EHR,2011,11
+9.5.2,149148,246,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,IL,McKesson,Practice Partner,2012,12
+3,85085,247,Complete EHR,1,EP,2011,OSTEOPATHIC MANIPULATIVE MEDICINE,Ambulatory,Medicare,CA,HealthFusion,MediTouch EHR,2012,1
+1.1.1.5,189259,248,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,FL,First Insight Corp,MaximEyes SQL Electronic Health Records,2012,11
+11.2,157706,249,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2012,10
+10,120543,250,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AZ,GE Healthcare,Centricity Practice Solution,2012,9
+2011,38463,251,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,FL,"Aprima Medical Software, Inc",Aprima,2012,4
+10,120738,252,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,TX,GE Healthcare,Centricity Practice Solution,2012,11
+2.3,123136,253,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,FL,"Elekta - IMPAC Medical Systems, Inc.",MOSAIQ,2012,7
+19.5,67298,254,Complete EHR,2,EP,2012,DERMATOLOGY,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2013,1
+19.5,65191,254,Complete EHR,1,EP,2011,DERMATOLOGY,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2011,11
+6.2,71409,255,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,FL,Sage,Sage Intergy Meaningful Use Edition,2011,12
+12.2,165087,256,Complete EHR,1,EP,2011,ORTHOPEDIC SURGERY,Ambulatory,Medicare,TX,"athenahealth, Inc",athenaClinicals,2012,2
+2011.12,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2012.01.08,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,"Powerworks, Cerner Healthe and Cerner Patient Portal",2013,1
+2012.01.04,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,"Powerworks, Cerner Healthe and IQHealth",2013,1
+2012.04,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2012.08,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2012.01.01,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,"Powerworks, Cerner Healthe and Cerner Patient Portal",2013,1
+2012.06`,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2010.01.18,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,"Powerworks, Cerner Healthe and IQHealth",2013,1
+2012.1,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2012.01,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2012.07,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2012.05,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2012.09,190201,257,Modular EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,HealthSentry,2013,1
+2010.01.07 and P2 Sentinel v4.2.1,79890,257,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Cerner Corporation,"Millennium Powerchart, Healthe Exchange, IQHealth, Health Sentry, Cerner Health",2011,4
+2011,68064,258,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,MI,Pulse Systems,2011 Pulse Complete EHR,2012,2
+2010.01.07 and P2 Sentinel v4.2.1,79931,259,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,"Millennium Powerchart, Healthe Exchange, IQHealth, Health Sentry, Cerner Health",2011,7
+2012.01.01,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,"Powerworks, Cerner Healthe and Cerner Patient Portal",2013,1
+2012.01.08,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,"Powerworks, Cerner Healthe and Cerner Patient Portal",2013,1
+2012.08,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2012.01.04,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,"Powerworks, Cerner Healthe and IQHealth",2013,1
+2012.05,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2012.01,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2012.04,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2011.12,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2012.07,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2012.09,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2012.1,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2012.06`,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2010.01.18,190219,259,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Cerner Corporation,"Powerworks, Cerner Healthe and IQHealth",2013,1
+9.5,43037,260,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,PA,GE Healthcare,Centricity EMR,2012,8
+7.2,179658,261,Complete EHR,1,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,CA,Merge Healthcare,Merge RIS,2012,11
+9.5,79161,262,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,MA,GE Healthcare,Centricity Practice Solution,2012,10
+10,124664,263,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,FL,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,2
+V6.20,163344,264,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,2013,1
+6.2,71186,264,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,OR,Sage,Sage Intergy Meaningful Use Edition,2011,11
+v6.4,182014,265,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,IL,McKesson,iKnowMed EHR,2012,12
+9,14210,266,Complete EHR,1,EP,2012,PLASTIC AND RECONSTRUCTIVE SURGERY,Ambulatory,Medicare,OR,eClinicalWorks LLC,eClinicalWorks,2012,12
+9.5,44471,267,Complete EHR,1,EP,2012,NEUROSURGERY,Ambulatory,Medicare,LA,GE Healthcare,Centricity EMR,2012,12
+2012.01,186897,268,Modular EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,WA,Cerner Corporation,HealthSentry,2012,12
+2012.01.07,186897,268,Modular EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,WA,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2012,12
+7.1,141392,269,Complete EHR,2,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,FL,ACOM Health,RAPID,2013,1
+7.1,141233,269,Complete EHR,1,EP,2011,CHIROPRACTIC,Ambulatory,Medicare,FL,ACOM Health,RAPID,2011,12
+7.5.10,105272,270,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,FL,"GEMMS, Inc.",GEMMS ONE,2012,10
+5.6 SP1,28720,271,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,NJ,NextGen Healthcare,NextGen Ambulatory EHR,2012,2
+2010.02.18,184893,272,Modular EHR,1,EP,2012,FAMILY PRACTICE,Inpatient,Medicare,FL,Cerner Corporation,Powerchart,2013,1
+2010.02.18,184893,272,Modular EHR,1,EP,2012,FAMILY PRACTICE,Inpatient,Medicare,FL,Cerner Corporation,FirstNet,2013,1
+2011.06,184893,272,Modular EHR,1,EP,2012,FAMILY PRACTICE,Inpatient,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+2010.02.18,184893,272,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2013,1
+2011.06,184893,272,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,Cerner Corporation,HealthSentry,2013,1
+7.6,80866,273,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,ME,Medflow,Medflow E HR,2011,11
+4.13.0,115520,274,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,TX,"gMed, Inc.",gGastro,2013,1
+9.5,43154,275,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,MA,GE Healthcare,Centricity EMR,2012,9
+version 3.7,161228,276,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,MA,Integrity Digital Solutions,Integrity EMR for Eyes,2013,1
+LMR 9.0,130799,277,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Partners Healthcare System,Partners Longitudinal Medical Record,2012,9
+9.3,172169,278,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MI,Allscripts,Allscripts Professional EHR,2012,5
+9,8434,279,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,SC,eClinicalWorks LLC,eClinicalWorks,2012,4
+9.2,73104,280,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,TX,Allscripts,Allscripts Professional EHR,2011,10
+7.2,149831,281,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,TX,"e-MDs, Inc.",e-MDs Solution Series,2012,2
+2012.04,181284,282,Modular EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,WI,Cerner Corporation,HealthSentry,2012,11
+2010.02.10,181284,282,Modular EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,WI,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2012,11
+9.5,45355,283,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,GE Healthcare,Centricity EMR,2013,1
+9.5,39574,283,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,FL,GE Healthcare,Centricity EMR,2011,7
+5.6 SP1,29927,284,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,IN,NextGen Healthcare,NextGen Ambulatory EHR,2012,5
+9,5006,285,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2011,11
+2,139997,286,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NY,Practice Fusion,Practice Fusion,2013,1
+2,136425,286,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,NY,Practice Fusion,Practice Fusion,2011,12
+10,2827,287,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,FL,Compulink,Advantage/EHR,2013,1
+2010,52333,288,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,CT,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,9
+7.2,149865,289,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OH,"e-MDs, Inc.",e-MDs Solution Series,2012,4
+2011,38573,290,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,MO,"Aprima Medical Software, Inc",Aprima,2012,8
+9.3,172389,291,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,VA,Allscripts,Allscripts Professional EHR,2012,7
+4.13.0,115370,292,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,TX,"gMed, Inc.",gGastro,2012,1
+4.13.0,115508,292,Complete EHR,2,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,TX,"gMed, Inc.",gGastro,2013,1
+2.6,106112,293,Complete EHR,1,EP,2011,MEDICAL ONCOLOGY,Ambulatory,Medicare,FL,"Altos Solutions, Inc.",OncoEMR,2011,11
+2.6,106554,293,Complete EHR,2,EP,2012,MEDICAL ONCOLOGY,Ambulatory,Medicare,FL,"Altos Solutions, Inc.",OncoEMR,2013,1
+2010.02.10,180932,294,Modular EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,WI,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2012,7
+2012.04,180932,294,Modular EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,WI,Cerner Corporation,HealthSentry,2012,7
+4.13.0,115395,295,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,TX,"gMed, Inc.",gGastro,2012,5
+2011,22745,296,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,TX,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+v10.1,171127,297,Complete EHR,1,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,FL,Allscripts,Allscripts MyWay EHR,2012,12
+2010,51503,298,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,8
+9,9040,299,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CO,eClinicalWorks LLC,eClinicalWorks,2012,5
+2010,54174,300,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+2010.01.07 and P2 Sentinel v4.2.1,116249,301,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,TX,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel",2012,1
+2010.01.07 and P2 Sentinel v4.2.1,116272,301,Complete EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,TX,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel",2013,1
+7.5.10,153531,302,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,OH,"GEMMS, Inc.",GEMMS ONE,2012,5
+9,153531,302,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,OH,eClinicalWorks LLC,eClinicalWorks,2012,5
+5.6 SP1,30593,303,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2012,7
+5.6 SP1,31739,304,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,PA,NextGen Healthcare,NextGen Ambulatory EHR,2012,9
+10,82906,305,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,TX,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,1
+10,83870,305,Complete EHR,2,EP,2012,OPTOMETRY,Ambulatory,Medicare,TX,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+11.2,187250,306,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MO,Allscripts,Allscripts Enterprise EHR,2012,10
+v12,187250,306,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MO,McKesson,RelayClinical? Communicator,2012,10
+9.5,39740,307,Complete EHR,1,EP,2011,PULMONARY DISEASE,Ambulatory,Medicare,OR,GE Healthcare,Centricity EMR,2011,9
+9.5,39741,308,Complete EHR,1,EP,2011,PULMONARY DISEASE,Ambulatory,Medicare,OR,GE Healthcare,Centricity EMR,2011,9
+9,116541,309,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,TX,"AllMeds, Inc.",AllMeds EHR,2011,12
+9,117111,309,Complete EHR,2,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,TX,"AllMeds, Inc.",AllMeds EHR,2013,1
+9.5,79507,310,Complete EHR,2,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,GA,GE Healthcare,Centricity Practice Solution,2013,1
+9.5,78545,310,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,GA,GE Healthcare,Centricity Practice Solution,2012,1
+7.6,81128,311,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,WI,Medflow,Medflow E HR,2012,5
+Summer 2009,100750,312,Complete EHR,2,EP,2012,NEUROLOGY,Ambulatory,Medicare,IA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Summer 2009,94908,312,Complete EHR,1,EP,2011,NEUROLOGY,Ambulatory,Medicare,IA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+6.0.10,169915,313,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CO,"AmazingCharts.com, Inc.",Amazing Charts,2012,8
+2010,54141,314,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,LA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+8,119761,315,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CT,Origin Healthcare Solutions,EMRge,2012,4
+9.5,43306,316,Complete EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,WA,GE Healthcare,Centricity EMR,2012,9
+4,108507,317,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,MD,Intuitive Medical Software,UroChartEHR,2012,11
+v5.0,68697,318,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,CT,"meridianEMR, Inc.",meridianEMR,2012,12
+9,12141,319,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,NC,eClinicalWorks LLC,eClinicalWorks,2012,10
+6.1.2,170215,320,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,"AmazingCharts.com, Inc.",Amazing Charts,2013,1
+Summer 2009,97265,321,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NC,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,8
+2011,39094,322,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,MI,"Aprima Medical Software, Inc",Aprima,2013,1
+V7.10,163080,323,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,NC,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,2013,1
+2011,20691,324,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,7
+v. 14.0,104695,325,Complete EHR,1,EP,2012,ALLERGY/IMMUNOLOGY,Ambulatory,Medicare,KY,"Meditab Software, Inc.",IMS,2013,1
+9.2.2,145697,326,Complete EHR,2,EP,2012,NEUROLOGY,Ambulatory,Medicare,TN,Allscripts,Allscripts Professional EHR,2013,1
+9.2.2,144426,326,Complete EHR,1,EP,2011,NEUROLOGY,Ambulatory,Medicare,TN,Allscripts,Allscripts Professional EHR,2011,12
+19.5,66980,327,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2013,1
+9.5,76172,328,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,McKesson,Practice Partner,2012,1
+11.2,23632,329,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,IA,Allscripts,Allscripts Enterprise EHR,2012,1
+10,1256,330,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,KY,Compulink,Advantage/EHR,2012,1
+5.6 SP1,35440,331,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+11.2,159037,332,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,OK,Allscripts,Allscripts Enterprise EHR,2013,1
+2,121730,333,Complete EHR,1,EP,2011,ORTHOPEDIC SURGERY,Ambulatory,Medicare,PA,M3 Healthcare Solutions,enCompass EHR,2011,10
+5.6 SP1,32147,334,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2012,9
+2.3,123260,335,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,SC,"Elekta - IMPAC Medical Systems, Inc.",MOSAIQ,2012,11
+2010,54241,336,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,LA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+2011,152390,337,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,NY,"MPN Software Systems, Inc.",ECLIPSE,2013,1
+10,120386,338,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,GE Healthcare,Centricity Practice Solution,2012,7
+10,1714,339,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,WI,Compulink,Advantage/EHR,2012,5
+9,4993,340,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,CO,eClinicalWorks LLC,eClinicalWorks,2011,11
+11.2,159864,341,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2013,1
+2011,18807,342,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,IA,"Greenway Medical Technologies, Inc.",PrimeSuite,2011,10
+3.4,166304,343,Modular EHR,1,EP,2011,INTERVENTIONAL RADIOLOGY,Ambulatory,Medicare,MA,"MedSeek, Inc.",eHealth ecoSystem,2011,12
+2007.19.13,166304,343,Modular EHR,1,EP,2011,INTERVENTIONAL RADIOLOGY,Ambulatory,Medicare,MA,Cerner Corporation,Powerchart and Cerner Healthe,2011,12
+2011.07,166304,343,Modular EHR,1,EP,2011,INTERVENTIONAL RADIOLOGY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2011,12
+2010,53985,344,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+9,10323,345,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MI,eClinicalWorks LLC,eClinicalWorks,2012,8
+9,16101,346,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,TX,eClinicalWorks LLC,eClinicalWorks,2013,1
+5.6 SP1,35204,347,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,LA,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+V17,75350,348,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,NJ,McKesson,Medisoft Clinical,2011,10
+2011,38490,349,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MI,"Aprima Medical Software, Inc",Aprima,2012,5
+9.2.2,128380,350,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,IN,Allscripts,Allscripts Professional EHR,2012,10
+9.5,43496,351,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MD,GE Healthcare,Centricity EMR,2012,10
+9,9532,352,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2012,6
+10,177738,353,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,GA,Allscripts,Allscripts Professional EHR,2012,12
+9,8191,354,Complete EHR,1,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,CA,eClinicalWorks LLC,eClinicalWorks,2012,4
+9.5,44999,355,Complete EHR,2,EP,2012,NEUROLOGY,Ambulatory,Medicare,OR,GE Healthcare,Centricity EMR,2013,1
+9.5,40384,355,Complete EHR,1,EP,2011,NEUROLOGY,Ambulatory,Medicare,OR,GE Healthcare,Centricity EMR,2012,1
+2010.01.07 and P2 Sentinel v4.2.1,106735,356,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,NC,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, Cerner Health Record and P2",2011,11
+2010.01.07 and P2 Sentinel v4.2.1,106848,356,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,NC,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, Cerner Health Record and P2",2013,1
+11.2,159822,357,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2013,1
+4,146410,358,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,KS,Williams Group,Practice Director,2012,10
+11.2,155788,359,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,OR,Allscripts,Allscripts Enterprise EHR,2012,1
+11.2,135015,359,Complete EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,OR,Allscripts,Allscripts Enterprise EHR,2013,1
+5.6 SP1,34307,360,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,KY,NextGen Healthcare,NextGen Ambulatory EHR,2012,12
+2011,21527,361,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,LA,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,11
+9,8970,362,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,eClinicalWorks LLC,eClinicalWorks,2012,5
+12.7,183592,363,Complete EHR,1,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,VA,"athenahealth, Inc",athenaClinicals,2012,7
+2011,20722,364,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,TX,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,7
+19.5,67245,365,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2013,1
+19.5,64449,365,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2011,6
+9.7,85792,366,Complete EHR,1,EP,2012,DERMATOLOGY,Ambulatory,Medicare,FL,NexTech Systems Inc.,NexTech Practice 2011,2012,12
+version 5.3,182462,367,Complete EHR,1,EP,2012,NEUROSURGERY,Ambulatory,Medicare,TX,"One Healthcare Solution, Inc.",M5,2013,1
+7.2,179730,368,Complete EHR,1,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,AZ,Merge Healthcare,Merge RIS,2013,1
+9,8794,369,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,FL,eClinicalWorks LLC,eClinicalWorks,2012,5
+5.6 SP1,29001,370,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2012,2
+11.1,122049,371,Complete EHR,2,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,CT,"Nuesoft Technologies, Inc.",NueMD EHR,2013,1
+11.1,122009,371,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,CT,"Nuesoft Technologies, Inc.",NueMD EHR,2011,9
+4.3.1,194575,372,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NY,"STI Computer Services, Inc.",ChartMaker Medical Suite,2013,1
+4.4,194575,372,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NY,"STI Computer Services, Inc.",ChartMaker Medical Suite,2013,1
+6.2,72364,373,Complete EHR,1,EP,2012,ALLERGY/IMMUNOLOGY,Ambulatory,Medicare,TX,Sage,Sage Intergy Meaningful Use Edition,2012,12
+11.2,23826,374,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,AZ,Allscripts,Allscripts Enterprise EHR,2012,4
+7,104156,375,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,RI,Ingenix,Ingenix CareTracker,2012,12
+5.6 SP1,34974,376,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,VA,NextGen Healthcare,NextGen Ambulatory EHR,2012,12
+Summer 2009,93499,377,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+5.6 SP1,32416,378,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,MO,NextGen Healthcare,NextGen Ambulatory EHR,2012,10
+11.2,23692,379,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2012,2
+2.5 build 25,132491,380,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,MN,"Midwest Software, LLC",Chiro QuickCharts,2012,10
+9,8764,381,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2012,5
+Summer 2009,94656,382,Complete EHR,1,EP,2011,NEPHROLOGY,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+v. 14.0,104623,383,Complete EHR,1,EP,2012,ALLERGY/IMMUNOLOGY,Ambulatory,Medicare,OH,"Meditab Software, Inc.",IMS,2012,10
+11.2,25419,384,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CO,Allscripts,Allscripts Enterprise EHR,2012,12
+v5.0,68807,385,Complete EHR,2,EP,2012,UROLOGY,Ambulatory,Medicare,TN,"meridianEMR, Inc.",meridianEMR,2013,1
+v5.0,68271,385,Complete EHR,1,EP,2011,UROLOGY,Ambulatory,Medicare,TN,"meridianEMR, Inc.",meridianEMR,2011,6
+9.5,78546,386,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,GA,GE Healthcare,Centricity Practice Solution,2012,1
+9.5,79508,386,Complete EHR,2,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,GA,GE Healthcare,Centricity Practice Solution,2013,1
+1,165608,387,Complete EHR,1,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,CA,"DR Systems, Inc.",eHR Meaningful Use for Medical Imaging,2013,1
+8,119778,388,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,CT,Origin Healthcare Solutions,EMRge,2012,6
+Summer 2009,119508,389,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010,119508,389,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Summer 2009,88491,389,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,9
+12.1,188416,390,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,"athenahealth, Inc",athenaClinicals,2012,11
+2,186402,391,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MO,Lester E. Cox Medical Centers (DBA: CoxHealth),CoxHealth Express,2013,1
+9.5,186402,391,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MO,GE Healthcare,Centricity EMR,2013,1
+2010,63849,392,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NC,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+9.5,41582,393,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,NY,GE Healthcare,Centricity EMR,2012,2
+10,83814,394,Complete EHR,2,EP,2012,OPTOMETRY,Ambulatory,Medicare,KS,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+10,82815,394,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,KS,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2011,12
+2012.2,183415,395,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OK,"MedPlus, A Quest Diagnostics Company",Care360 EHR,2012,11
+Summer 2009,90957,396,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+9.7,85654,397,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,FL,NexTech Systems Inc.,NexTech Practice 2011,2012,10
+3.x,108891,398,Modular EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,IL,DrFirst,Rcopia MU,2011,4
+2,108891,398,Modular EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,IL,WellCentive,WellCentive Registry,2011,4
+3.x,109442,398,Modular EHR,2,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,IL,DrFirst,Rcopia MU,2013,1
+2,109442,398,Modular EHR,2,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,IL,WellCentive,WellCentive Registry,2013,1
+3,110108,399,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,PR,NeoDeck Software,NeoMed EHR,2012,7
+9.7,85758,400,Complete EHR,1,EP,2012,PLASTIC AND RECONSTRUCTIVE SURGERY,Ambulatory,Medicare,DC,NexTech Systems Inc.,NexTech Practice 2011,2012,12
+10,124735,401,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,ME,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,3
+10,125079,401,Complete EHR,2,EP,2012,OPTOMETRY,Ambulatory,Medicare,ME,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+3,115049,402,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,"Enable Healthcare, Inc. (EHI)",Mdnet,2013,1
+5.1,167978,403,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,MI,"Integrated Practice Solutions, Inc.",ChiroTouch,2013,1
+7.5,77660,404,Complete EHR,2,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,IA,"MedInformatix, Inc",MedInformatix,2013,1
+7.5,77009,404,Complete EHR,1,EP,2011,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,IA,"MedInformatix, Inc",MedInformatix,2011,12
+2,135951,405,Complete EHR,1,EP,2011,ANESTHESIOLOGY,Ambulatory,Medicare,FL,Practice Fusion,Practice Fusion,2011,10
+12.9,187519,406,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OH,"athenahealth, Inc",athenaClinicals,2012,10
+5.1,141840,407,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,GA,"Net Health Systems, Inc.",WoundExpert,2012,1
+5.1,141848,407,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,GA,"Net Health Systems, Inc.",WoundExpert,2013,1
+10.3.1,113299,408,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IL,McKesson,Horizon Ambulatory Care,2012,7
+7,109818,409,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NY,"IO Practiceware, Inc.",IO Practiceware,2012,5
+11.2,159614,410,Complete EHR,1,EP,2012,NEUROSURGERY,Ambulatory,Medicare,GA,Allscripts,Allscripts Enterprise EHR,2013,1
+2,137302,411,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,VA,Practice Fusion,Practice Fusion,2012,2
+9.5,39820,412,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,OR,GE Healthcare,Centricity EMR,2011,10
+19.5,66456,413,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,OH,"Community Computer Service, Inc.",MEDENT,2012,12
+5.6 SP1,33150,414,Complete EHR,1,EP,2012,NEUROSURGERY,Ambulatory,Medicare,NC,NextGen Healthcare,NextGen Ambulatory EHR,2012,11
+6.2,71077,415,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,FL,Sage,Sage Intergy Meaningful Use Edition,2011,9
+6.2,72594,415,Complete EHR,2,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,FL,Sage,Sage Intergy Meaningful Use Edition,2013,1
+12,107278,416,Complete EHR,1,EP,2011,COLORECTAL SURGERY,Ambulatory,Medicare,MI,Digital Medical Solutions Inc.,Office Medicine,2011,12
+2011,19523,417,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,OH,"Greenway Medical Technologies, Inc.",PrimeSuite,2011,12
+5.5,101848,418,Complete EHR,1,Hospital,2011,N/A,Inpatient,Medicare/Medicaid,AL,Allscripts,Sunrise Acute Care,2011,7
+5.5,101882,418,Complete EHR,2,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,AL,Allscripts,Sunrise Acute Care,2012,10
+9,8820,419,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2012,5
+11.2,156281,420,Complete EHR,1,EP,2011,UROLOGY,Ambulatory,Medicare,NY,Allscripts,Allscripts Enterprise EHR,2012,2
+9.3,172846,421,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,VA,Allscripts,Allscripts Professional EHR,2012,10
+9.5,78974,422,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,VA,GE Healthcare,Centricity Practice Solution,2012,5
+3,85213,423,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OH,HealthFusion,MediTouch EHR,2012,11
+2.4,106989,424,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Inpatient,Medicare,KY,NextGen Healthcare,NextGen Inpatient Clinicals,2013,1
+9.2.2,144135,425,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,VA,Allscripts,Allscripts Professional EHR,2011,11
+11.9,146763,426,Complete EHR,1,EP,2011,UROLOGY,Ambulatory,Medicare,SD,"athenahealth, Inc",athenaClinicals,2011,10
+SP12,152549,427,Complete EHR,1,EP,2011,NEPHROLOGY,Ambulatory,Medicare,CT,"simplifyMD, LLC",simplifyMD,2012,2
+9,8168,428,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,NY,eClinicalWorks LLC,eClinicalWorks,2012,4
+6,111406,429,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,NC,Health IT Services Group,Acumen EHR,2012,11
+5.6 SP1,34267,430,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,GA,NextGen Healthcare,NextGen Ambulatory EHR,2012,12
+9,13902,431,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,GA,eClinicalWorks LLC,eClinicalWorks,2012,12
+11.2,194302,432,Complete EHR,1,EP,2012,HAND SURGERY,Ambulatory,Medicare,OK,Allscripts,Allscripts Enterprise EHR,2013,1
+7.5.10,105480,433,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,TX,"GEMMS, Inc.",GEMMS ONE,2013,1
+version 1.18,135538,434,Complete EHR,1,EP,2011,NEPHROLOGY,Ambulatory,Medicare,FL,"Falcon, LLC.",Falcon EHR,2012,1
+5.6 SP1,28972,435,Complete EHR,1,EP,2011,PULMONARY DISEASE,Ambulatory,Medicare,NY,NextGen Healthcare,NextGen Ambulatory EHR,2012,2
+10.1,67802,436,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,TX,GE Healthcare,Centricity Advance,2012,10
+2010,59515,437,Complete EHR,1,EP,2012,THORACIC SURGERY,Ambulatory,Medicare,IN,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010.2,82075,438,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,"MedPlus, A Quest Diagnostics Company",Care360 EHR,2013,1
+5.6 SP1,37653,439,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,OK,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+2010,52583,440,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,SD,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,9
+5.6 SP1,34664,441,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,TX,NextGen Healthcare,NextGen Ambulatory EHR,2012,12
+2012.M11.16,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M09.21,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M08.13,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2012,12
+2012.M09.16,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.23,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.18,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M11.22,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.25,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M08.13,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2012,12
+2012.M11.16,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.25,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.18,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M08.16,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.17,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M09.20,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.23,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M10.17,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M09.16,192173,442,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M08.16,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M09.21,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2012.M09.20,192173,442,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2012,12
+2011.1,124152,443,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,IN,EMRlogic Systems,activEHR?,2012,9
+10,124888,444,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,OH,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,10
+9,8741,445,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MO,eClinicalWorks LLC,eClinicalWorks,2012,5
+2010,55381,446,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+5.6 SP1,37012,447,Complete EHR,2,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,IL,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+5.6 SP1,26493,447,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,IL,NextGen Healthcare,NextGen Ambulatory EHR,2011,10
+V7.10,162638,448,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,PA,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,2012,9
+11,142714,449,Complete EHR,1,EP,2012,RADIATION ONCOLOGY,Ambulatory,Medicare,NC,Varian Medical Systems,ARIA Oncology Information System (for Radiation Oncology),2012,12
+7.2,150207,450,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,VA,"e-MDs, Inc.",e-MDs Solution Series,2012,9
+Summer 2009,97133,451,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,MI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,7
+11.2,158304,452,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,AZ,Allscripts,Allscripts Enterprise EHR,2012,12
+5.7,180044,453,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+2011,68096,454,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,IL,Pulse Systems,2011 Pulse Complete EHR,2012,6
+6.2,71649,455,Complete EHR,1,EP,2011,PULMONARY DISEASE,Ambulatory,Medicare,NY,Sage,Sage Intergy Meaningful Use Edition,2012,1
+6.2,72746,455,Complete EHR,2,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,NY,Sage,Sage Intergy Meaningful Use Edition,2013,1
+9.2.2,144128,456,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,PA,Allscripts,Allscripts Professional EHR,2011,11
+5.6 SP1,32770,457,Complete EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,AZ,NextGen Healthcare,NextGen Ambulatory EHR,2012,10
+7,109750,458,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,NE,"IO Practiceware, Inc.",IO Practiceware,2011,12
+7,109962,458,Complete EHR,2,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NE,"IO Practiceware, Inc.",IO Practiceware,2013,1
+2,136627,459,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,TX,Practice Fusion,Practice Fusion,2012,1
+10,1248,460,Complete EHR,1,EP,2011,CHIROPRACTIC,Ambulatory,Medicare,OH,Compulink,Advantage/EHR,2012,1
+10,2450,460,Complete EHR,2,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,OH,Compulink,Advantage/EHR,2013,1
+2010,50645,461,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,7
+2011.06,160155,462,Modular EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2012,1
+2010.01.07,160155,462,Modular EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2012,1
+2012.05,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2012.01.04,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,"Powerworks, Cerner Healthe and IQHealth",2013,1
+2012.01.08,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,"Powerworks, Cerner Healthe and Cerner Patient Portal",2013,1
+2012.01.01,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,"Powerworks, Cerner Healthe and Cerner Patient Portal",2013,1
+2012.09,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2012.08,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2012.07,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2012.01,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2012.06`,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2011.12,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2012.1,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2012.04,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2013,1
+2010.01.18,190221,462,Modular EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,Cerner Corporation,"Powerworks, Cerner Healthe and IQHealth",2013,1
+6.2,71635,463,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,IL,Sage,Sage Intergy Meaningful Use Edition,2012,1
+2011.3,168321,464,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NY,"MedPlus, A Quest Diagnostics Company",Care360 EHR,2012,6
+5.1.1,304,465,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,FL,Sammy Systems,SammyEHR,2012,1
+5.1.1,498,465,Complete EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,Sammy Systems,SammyEHR,2013,1
+2010,54120,466,Complete EHR,1,EP,2012,OSTEOPATHIC MANIPULATIVE MEDICINE,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+9.3,172800,467,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,IN,Allscripts,Allscripts Professional EHR,2012,10
+9,13604,468,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MI,eClinicalWorks LLC,eClinicalWorks,2012,12
+11.1,162169,469,Complete EHR,1,EP,2011,ORTHOPEDIC SURGERY,Ambulatory,Medicare,GA,"athenahealth, Inc",athenaClinicals,2011,11
+7.2,150937,470,Complete EHR,2,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,MI,"e-MDs, Inc.",e-MDs Solution Series,2013,1
+7.2,149738,470,Complete EHR,1,EP,2011,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,MI,"e-MDs, Inc.",e-MDs Solution Series,2012,1
+5.6 SP1,30688,471,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,FL,NextGen Healthcare,NextGen Ambulatory EHR,2012,7
+9.2.2,144483,472,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,OH,Allscripts,Allscripts Professional EHR,2011,12
+10,177917,472,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OH,Allscripts,Allscripts Professional EHR,2013,1
+2,69425,473,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,MI,BioMedix Vascular Solutions,TRAKnet Practice Management Software,2011,12
+19.5,64658,474,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,NY,"Community Computer Service, Inc.",MEDENT,2011,8
+11.2,157595,475,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,GA,Allscripts,Allscripts Enterprise EHR,2012,10
+2010,56601,476,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,LA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+Version 11.0,194552,477,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,TN,Varian Medical Systems,ARIA for Medical Oncology,2013,1
+5.6 SP1,35874,478,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+9.5,78968,479,Complete EHR,1,EP,2012,HAND SURGERY,Ambulatory,Medicare,TX,GE Healthcare,Centricity Practice Solution,2012,5
+2,140157,480,Complete EHR,2,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NY,Practice Fusion,Practice Fusion,2013,1
+2,136300,480,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,NY,Practice Fusion,Practice Fusion,2011,12
+4.16.2,189341,481,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,LA,"gMed, Inc.",gGastro,2012,12
+5.6 SP1,37506,482,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MI,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+7,86355,483,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,NC,"ChartLogic, Inc.",ChartLogic EHR,2012,7
+9,76790,484,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MS,eClinicalWorks LLC,eClinicalWorks,2012,8
+8.0.48,76790,484,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MS,eClinicalWorks LLC,eClinicalWorks,2012,8
+2010,61099,485,Complete EHR,1,EP,2012,ALLERGY/IMMUNOLOGY,Ambulatory,Medicare,IA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+12.2,186591,486,Complete EHR,1,EP,2012,COLORECTAL SURGERY,Ambulatory,Medicare,AL,"simplifyMD, LLC",simplifyMD,2012,12
+6.2,71637,487,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,NE,Sage,Sage Intergy Meaningful Use Edition,2012,1
+v8.3,163981,488,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,NC,SRSsoft,SRS EHR,2012,10
+2011,116148,489,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,TX,"SOAPware, Inc.",SOAPware,2013,1
+2011,115807,489,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,TX,"SOAPware, Inc.",SOAPware,2011,10
+9.1,133663,490,Complete EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,OH,Allscripts,Allscripts MyWay EHR,2012,11
+5.6 SP1,37387,491,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+6,84656,492,Complete EHR,1,EP,2011,NEUROSURGERY,Ambulatory,Medicare,TX,"gloStream, Inc.",gloEMR,2012,2
+7.2,179820,493,Complete EHR,1,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,OK,Merge Healthcare,Merge RIS,2013,1
+9,10474,494,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,FL,eClinicalWorks LLC,eClinicalWorks,2012,8
+6,82381,495,Complete EHR,1,EP,2011,GENERAL PRACTICE,Ambulatory,Medicare,AR,SuccessEHS,SuccessEHS,2012,1
+3.x,109192,496,Modular EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,MA,DrFirst,Rcopia MU,2012,10
+2,109192,496,Modular EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,MA,WellCentive,WellCentive Registry,2012,10
+2010,52408,497,Complete EHR,1,EP,2012,PLASTIC AND RECONSTRUCTIVE SURGERY,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,9
+5.6 SP1,37304,498,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+5.6 SP1,26802,498,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,TX,NextGen Healthcare,NextGen Ambulatory EHR,2011,11
+2.6,106322,499,Complete EHR,1,EP,2012,MEDICAL ONCOLOGY,Ambulatory,Medicare,MI,"Altos Solutions, Inc.",OncoEMR,2012,8
+2011,21490,500,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,AL,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,11
+2,69611,501,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,LA,BioMedix Vascular Solutions,TRAKnet Practice Management Software,2012,1
+2010,55309,502,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+2010,47476,503,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,9
+version 1.0,152497,504,Modular EHR,1,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,IN,"Parkview Health System, Inc.",CareView,2012,6
+2011/2012,152497,504,Modular EHR,1,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,IN,"CareEvolution, Inc.",HIEBus?,2012,6
+8,152497,504,Modular EHR,1,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,IN,LOGICARE® Corporation,LOGICARE®,2012,6
+2.2,152497,504,Modular EHR,1,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,IN,"Outcome Sciences, Inc. (Outcome)",Outcome TotalQuality®,2012,6
+Summer 2009,98560,505,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+6.2,72169,506,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,IL,Sage,Sage Intergy Meaningful Use Edition,2012,9
+7.2,179607,507,Complete EHR,1,EP,2012,DIAGNOSTIC RADIOLOGY,Ambulatory,Medicare,VA,Merge Healthcare,Merge RIS,2012,8
+9.5,78455,508,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,MA,GE Healthcare,Centricity Practice Solution,2011,12
+9.5,79710,508,Complete EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,MA,GE Healthcare,Centricity Practice Solution,2013,1
+2010,47428,509,Complete EHR,1,EP,2011,THORACIC SURGERY,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,8
+9,13746,510,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NY,eClinicalWorks LLC,eClinicalWorks,2012,12
+Summer 2009,98629,511,Complete EHR,1,EP,2012,PODIATRY,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+3,133087,512,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,TX,Cyclops Vision Corporation,Cyclops EHR,2012,2
+Spring 2008,80717,513,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NM,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+v8.3,164060,514,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,SD,SRSsoft,SRS EHR,2012,11
+v8.3,164299,515,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,IL,SRSsoft,SRS EHR,2012,12
+9,7919,516,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2012,2
+9,15708,516,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2013,1
+2011,23162,517,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,VA,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+Summer 2009,99032,518,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,FL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+Version 2.0,101797,519,Complete EHR,2,EP,2012,NEUROLOGY,Ambulatory,Medicare,SD,BizMatics Inc,PrognoCIS,2013,1
+Version 2.0,101556,519,Complete EHR,1,EP,2011,NEUROLOGY,Ambulatory,Medicare,SD,BizMatics Inc,PrognoCIS,2012,1
+2010,49221,520,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,2
+5.5,107961,521,Modular EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,CT,Allscripts,Sunrise Ambulatory Care Module Set,2012,12
+1.1,107961,521,Modular EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,CT,Rheumatology and Dermatology Associates PC,Medcomplete,2012,12
+2011,107961,521,Modular EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,CT,Netsmart Technologies,Avatar,2012,12
+v8.3,164452,522,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,UT,SRSsoft,SRS EHR,2012,12
+10.3.1,113418,523,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OH,McKesson,Horizon Ambulatory Care,2012,10
+v10.0,154387,524,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,HI,Allscripts,Allscripts MyWay EHR,2012,7
+9.3,172211,525,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,VA,Allscripts,Allscripts Professional EHR,2012,5
+5.1,167856,526,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,MD,"Integrated Practice Solutions, Inc.",ChiroTouch,2013,1
+2010,53487,527,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+7.2,150464,528,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,TX,"e-MDs, Inc.",e-MDs Solution Series,2012,11
+5.0 r1,175014,529,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NE,Custom Computing Corporation,Freedom Medical Systems EHR,2013,1
+7.2,149703,530,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,TX,"e-MDs, Inc.",e-MDs Solution Series,2011,12
+3.0.1,188497,531,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,VA,"Mountainside Software, Inc.",Mountainside Electronic Medical Records,2013,1
+8.0.48,76748,532,Complete EHR,1,EP,2011,CRITICAL CARE (INTENSIVISTS),Ambulatory,Medicare,TX,eClinicalWorks LLC,eClinicalWorks,2011,10
+9,76748,532,Complete EHR,1,EP,2011,CRITICAL CARE (INTENSIVISTS),Ambulatory,Medicare,TX,eClinicalWorks LLC,eClinicalWorks,2011,10
+2,136957,533,Complete EHR,1,EP,2011,PLASTIC AND RECONSTRUCTIVE SURGERY,Ambulatory,Medicare,TX,Practice Fusion,Practice Fusion,2012,1
+Summer 2009,92482,534,Complete EHR,1,EP,2011,ENDOCRINOLOGY,Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+9.5.2,149071,535,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,NJ,McKesson,Practice Partner,2012,12
+V7.00,163511,536,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,PA,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,2012,11
+Summer 2009,93038,537,Complete EHR,1,EP,2011,OTOLARYNGOLOGY,Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+9.2.2,128080,538,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,KS,Allscripts,Allscripts Professional EHR,2012,4
+5.6 SP1,31163,539,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,KS,NextGen Healthcare,NextGen Ambulatory EHR,2012,8
+11.2,25105,540,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IA,Allscripts,Allscripts Enterprise EHR,2012,11
+11.3,189626,541,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,AR,"Sevocity a division of Conceptual MindWorks, Inc",Sevocity,2012,11
+3.12,162390,542,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,Sharp HealthCare,MySharp,2013,1
+V11.2,162390,542,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,Allscripts,Allscripts Enterprise EHR,2013,1
+v11,176210,543,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MS,McKesson,Horizon Ambulatory Care,2012,12
+2,70489,544,Complete EHR,2,EP,2012,PODIATRY,Ambulatory,Medicare,FL,BioMedix Vascular Solutions,TRAKnet Practice Management Software,2013,1
+2,69708,544,Complete EHR,1,EP,2011,PODIATRY,Ambulatory,Medicare,FL,BioMedix Vascular Solutions,TRAKnet Practice Management Software,2012,2
+2012.M09.16,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.17,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.16,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.16,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.16,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.13,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2013,1
+2012.M10.17,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.22,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.16,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.25,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.21,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.20,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.18,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.18,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.13,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2013,1
+2012.M10.23,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.16,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.21,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.23,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.25,192405,545,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.20,192405,545,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2010.2,82007,546,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,FL,"MedPlus, A Quest Diagnostics Company",Care360 EHR,2011,11
+7.6,81559,547,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,TN,Medflow,Medflow E HR,2012,12
+9,17229,548,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CA,eClinicalWorks LLC,eClinicalWorks,2013,1
+9,5511,548,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,CA,eClinicalWorks LLC,eClinicalWorks,2011,12
+9.2.2,127609,549,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,OH,Allscripts,Allscripts Professional EHR,2011,12
+9.2.2,128711,549,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OH,Allscripts,Allscripts Professional EHR,2013,1
+7.1.r3,177199,550,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,MA,ACOM Health,RAPID,2013,1
+2011,20762,551,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CA,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,7
+7,46216,552,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,IL,"e-MDs, Inc.",e-MDs Solution Series,2011,10
+10.6,193184,553,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,AZ,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+9.5,40378,554,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,CO,GE Healthcare,Centricity EMR,2012,1
+7.6,81238,555,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,WA,Medflow,Medflow E HR,2012,8
+2011,20008,556,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,TN,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,1
+2011,22966,556,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,TN,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+2010.01.17 and P2 Sentinel v.4.2.1,151765,557,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,NC,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel",2012,11
+2010,54812,558,Complete EHR,1,EP,2012,DERMATOLOGY,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+11.2,155625,559,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,IL,Allscripts,Allscripts Enterprise EHR,2011,12
+11.2,159244,559,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,IL,Allscripts,Allscripts Enterprise EHR,2013,1
+Summer 2009,98902,560,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,TX,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+2010,53615,561,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+11.1,162094,562,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,MA,"athenahealth, Inc",athenaClinicals,2011,11
+11.2,169554,563,Modular EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CT,Allscripts,Allscripts Enterprise EHR,2013,1
+11.2,169125,563,Modular EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,CT,Allscripts,Allscripts Enterprise EHR,2012,2
+1.2,169554,563,Modular EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CT,Jardogs,Follow My Health,2013,1
+1.2,169125,563,Modular EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,CT,Jardogs,Follow My Health,2012,2
+v10.0,154434,564,Complete EHR,1,EP,2012,EMERGENCY MEDICINE,Ambulatory,Medicare,GA,Allscripts,Allscripts MyWay EHR,2012,10
+2010.01.17 and P2 Sentinel v.4.2.1,151717,565,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,NC,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel",2012,11
+9,13122,566,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,HI,eClinicalWorks LLC,eClinicalWorks,2012,11
+2.6,106485,567,Complete EHR,2,EP,2012,MEDICAL ONCOLOGY,Ambulatory,Medicare,NJ,"Altos Solutions, Inc.",OncoEMR,2013,1
+2.6,106102,567,Complete EHR,1,EP,2011,MEDICAL ONCOLOGY,Ambulatory,Medicare,NJ,"Altos Solutions, Inc.",OncoEMR,2011,11
+2010,60820,568,Complete EHR,2,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010,48507,568,Complete EHR,1,EP,2011,ORTHOPEDIC SURGERY,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+Summer 2009,100374,569,Complete EHR,2,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Summer 2009,91447,569,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,IL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,11
+10.5,179164,570,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,TX,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,7
+2010.01.07 and P2 Sentinel v4.2.1,68951,571,Complete EHR,1,EP,2012,INTERVENTIONAL PAIN MANAGEMENT,Inpatient,Medicare,GA,Cerner Corporation,"Cerner Millennium Powerchart, Cerner Millennium FirstNet, Cerner Millennium ProF",2013,1
+19.5,66199,572,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2012,9
+10,124813,573,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,CT,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,8
+10.5,179223,574,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,IL,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,9
+V7.10,162959,575,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,2012,12
+2010.01.17 and P2 Sentinel v.4.2.1,151730,576,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,NC,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel",2012,11
+9,9167,577,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IL,eClinicalWorks LLC,eClinicalWorks,2012,5
+3.x,109102,578,Modular EHR,1,EP,2011,PULMONARY DISEASE,Ambulatory,Medicare,IL,DrFirst,Rcopia MU,2012,1
+2,109487,578,Modular EHR,2,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,IL,WellCentive,WellCentive Registry,2013,1
+3.x,109487,578,Modular EHR,2,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,IL,DrFirst,Rcopia MU,2013,1
+2,109102,578,Modular EHR,1,EP,2011,PULMONARY DISEASE,Ambulatory,Medicare,IL,WellCentive,WellCentive Registry,2012,1
+3.6.0,67554,579,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,CA,Office Ally,EHR 24/7,2012,4
+5.5,101879,580,Complete EHR,1,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,WI,Allscripts,Sunrise Acute Care,2012,10
+7.2,149594,581,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,IN,"e-MDs, Inc.",e-MDs Solution Series,2011,11
+5.6 SP1,29545,582,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,AR,NextGen Healthcare,NextGen Ambulatory EHR,2012,5
+11.9,146550,583,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,IL,"athenahealth, Inc",athenaClinicals,2011,9
+2.5 build 25,132441,584,Complete EHR,1,EP,2011,CHIROPRACTIC,Ambulatory,Medicare,CA,"Midwest Software, LLC",Chiro QuickCharts,2012,2
+5.1,168065,584,Complete EHR,2,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,CA,"Integrated Practice Solutions, Inc.",ChiroTouch,2013,1
+2011,21532,585,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,VA,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,11
+11.2,169261,586,Modular EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,MO,Allscripts,Allscripts Enterprise EHR,2012,11
+1.2,169261,586,Modular EHR,1,EP,2012,UROLOGY,Ambulatory,Medicare,MO,Jardogs,Follow My Health,2012,11
+Summer 2009,87708,587,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,7
+2010,63603,587,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+9.7.1.0,117393,588,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NY,"Penn Medical Informatics Systems, Inc.",EyeDoc EMR,2013,1
+9.3,172367,589,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,VA,Allscripts,Allscripts Professional EHR,2012,7
+6.4,114359,590,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,KY,"MED3000, Inc",InteGreat EHR,2012,1
+2010,48619,591,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,OH,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,2
+"Version 2007.19.12, P2 Sentinel Version 4.2.1",103556,592,Complete EHR,1,Hospital,2012,N/A,Inpatient,Medicare/Medicaid,TX,Cerner Corporation,"Cerner Millennium Powerchart, Cerner Millennium FirstNet, Cerner Millennium ProF",2012,9
+2012.M08.13,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2013,1
+2012.M11.16,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.23,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.25,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.18,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.16,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.20,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.17,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.13,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2 Clinical Desktop,2013,1
+2012.M09.16,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.18,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.16,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.20,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.16,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M11.22,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.23,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M08.16,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.17,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M10.25,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.21,192518,593,Modular EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+2012.M09.21,192518,593,Complete EHR,1,EP,2012,GERIATRIC MEDICINE,Ambulatory,Medicare,UT,Intermountain Healthcare,HELP2,2013,1
+9.5,43451,594,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,DE,GE Healthcare,Centricity EMR,2012,10
+11.2,169486,595,Modular EHR,1,EP,2012,NEUROSURGERY,Ambulatory,Medicare,MO,Allscripts,Allscripts Enterprise EHR,2013,1
+1.2,169486,595,Modular EHR,1,EP,2012,NEUROSURGERY,Ambulatory,Medicare,MO,Jardogs,Follow My Health,2013,1
+2010.01.07 and P2 Sentinel v4.2.1,80002,596,Complete EHR,1,EP,2012,EMERGENCY MEDICINE,Ambulatory,Medicare,GA,Cerner Corporation,"Millennium Powerchart, Healthe Exchange, IQHealth, Health Sentry, Cerner Health",2012,9
+v8.3,164191,597,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,VA,SRSsoft,SRS EHR,2012,11
+9,15134,598,Complete EHR,2,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,FL,eClinicalWorks LLC,eClinicalWorks,2013,1
+9,5548,598,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,FL,eClinicalWorks LLC,eClinicalWorks,2011,12
+2011,19864,599,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,MN,"Greenway Medical Technologies, Inc.",PrimeSuite,2012,1
+2011,22992,599,Complete EHR,2,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,MN,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+2010,37885,600,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,FL,"NCG Medical Systems, Inc.",Perfect Care EH R Meaningful Use Edition,2011,12
+2,137319,601,Complete EHR,1,EP,2011,NEUROLOGY,Ambulatory,Medicare,MA,Practice Fusion,Practice Fusion,2012,2
+6.2,72744,602,Complete EHR,2,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,MA,Sage,Sage Intergy Meaningful Use Edition,2013,1
+6.2,71475,602,Complete EHR,1,EP,2011,ORTHOPEDIC SURGERY,Ambulatory,Medicare,MA,Sage,Sage Intergy Meaningful Use Edition,2011,12
+2010,60631,603,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,KY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+9,9158,604,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,TX,eClinicalWorks LLC,eClinicalWorks,2012,5
+3.4,166234,605,Modular EHR,1,EP,2011,MEDICAL ONCOLOGY,Ambulatory,Medicare,MA,"MedSeek, Inc.",eHealth ecoSystem,2011,12
+2007.19.13,166234,605,Modular EHR,1,EP,2011,MEDICAL ONCOLOGY,Ambulatory,Medicare,MA,Cerner Corporation,Powerchart and Cerner Healthe,2011,12
+2011.07,166234,605,Modular EHR,1,EP,2011,MEDICAL ONCOLOGY,Ambulatory,Medicare,MA,Cerner Corporation,HealthSentry,2011,12
+2010,59760,606,Complete EHR,1,EP,2012,NEPHROLOGY,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+9,16602,607,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,eClinicalWorks LLC,eClinicalWorks,2013,1
+5.6 SP1,27436,608,Complete EHR,1,EP,2011,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2011,12
+11.2,156727,609,Complete EHR,2,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2012,5
+2010,62800,610,Complete EHR,1,EP,2012,ANESTHESIOLOGY,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+9.5,42028,611,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MN,GE Healthcare,Centricity EMR,2012,5
+7,86067,612,Complete EHR,1,EP,2011,ORTHOPEDIC SURGERY,Ambulatory,Medicare,MT,"ChartLogic, Inc.",ChartLogic EHR,2011,7
+7,86637,612,Complete EHR,2,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,MT,"ChartLogic, Inc.",ChartLogic EHR,2013,1
+5.6 SP1,35310,613,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,KY,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+2010,56025,614,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+9.2.2,143961,615,Complete EHR,1,EP,2011,GENERAL SURGERY,Ambulatory,Medicare,AZ,Allscripts,Allscripts Professional EHR,2011,10
+2010.2,82065,616,Complete EHR,1,EP,2012,EMERGENCY MEDICINE,Ambulatory,Medicare,MS,"MedPlus, A Quest Diagnostics Company",Care360 EHR,2012,10
+9.2.2,143902,617,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,IL,Allscripts,Allscripts Professional EHR,2011,10
+1,170642,618,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,PA,Wellspan Health,WellSpan Patient Portal,2012,7
+11.2,170642,618,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2012,7
+Summer 2009,183925,619,Complete EHR,1,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,MN,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,8
+version 1.1,183925,619,Modular EHR,1,EP,2012,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,MN,HealthPort,eSmartLog,2012,8
+10,2624,620,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,MI,Compulink,Advantage/EHR,2013,1
+4.62,120036,621,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,FL,IOS Health Systems,Medios,2012,9
+2010,47499,622,Complete EHR,1,EP,2011,INFECTIOUS DISEASE,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,9
+9,6634,623,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,WA,eClinicalWorks LLC,eClinicalWorks,2012,1
+9,16331,623,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WA,eClinicalWorks LLC,eClinicalWorks,2013,1
+2010,3228,624,Complete EHR,1,EP,2012,FAMILY PRACTICE,Inpatient,Medicare,ND,Epic Systems Corporation,EpicCare Inpatient - Core EMR,2012,12
+2010,48466,625,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+2010,175797,626,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+6,175797,626,Modular EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WI,IOD Incorporated,PRISM,2012,10
+2011.2,129180,627,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,NH,"MedPlus, A Quest Diagnostics Company",Care360 EHR,2012,2
+2012.01.05 and P2 Sentinel v. 4.5.2,188872,628,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Inpatient,Medicare,MT,Cerner Corporation,"Powerchart, FirstNet, HealthSentry, and P2 Sentinel (Powered by Sensage)",2013,1
+2010.02.10 and P2 Sentinel v4.5.2,188872,628,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Inpatient,Medicare,MT,Cerner Corporation,"Powerchart, FirstNet, HealthSentry, and P2 Sentinel (Powered by Sensage)",2013,1
+9,6778,629,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,IN,eClinicalWorks LLC,eClinicalWorks,2012,1
+9,15494,629,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,IN,eClinicalWorks LLC,eClinicalWorks,2013,1
+2010,55590,630,Complete EHR,1,EP,2012,OTOLARYNGOLOGY,Ambulatory,Medicare,MI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+5.7,180020,631,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MS,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+2011,152182,632,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,NY,"MPN Software Systems, Inc.",ECLIPSE,2012,7
+9,11825,633,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WA,eClinicalWorks LLC,eClinicalWorks,2012,10
+6.2,71916,634,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,FL,Sage,Sage Intergy Meaningful Use Edition,2012,5
+11.2,25970,635,Complete EHR,1,EP,2012,PSYCHIATRY,Ambulatory,Medicare,NM,Allscripts,Allscripts Enterprise EHR,2013,1
+2011.06,160297,636,Modular EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,CT,Cerner Corporation,HealthSentry,2012,6
+2010.01.07,160297,636,Modular EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,CT,Cerner Corporation,"Powerchart, Cerner Healthe and IQHealth",2012,6
+LMR 9.0,132310,637,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Partners Healthcare System,Partners Longitudinal Medical Record,2013,1
+9.3,172148,638,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,CA,Allscripts,Allscripts Professional EHR,2012,5
+4.35,112992,639,Complete EHR,1,EP,2012,DERMATOLOGY,Ambulatory,Medicare,CO,"Encite, Inc.",Encite EHR,2012,9
+9,12630,640,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,NY,eClinicalWorks LLC,eClinicalWorks,2012,11
+version 2.1.0,153284,641,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,FL,Instakare Accentia Healthcare Solutions Corporation,instaKare,2012,12
+11.2,156554,642,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2012,4
+2011,123764,643,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,TX,"Spring Medical Systems, Inc.",SpringCharts EHR,2013,1
+v6.4,182133,644,Complete EHR,1,EP,2012,HEMATOLOGY/ONCOLOGY,Ambulatory,Medicare,TX,McKesson,iKnowMed EHR,2013,1
+4.2,179600,645,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,MN,"Abraxas Medical Solutions, Inc",Abraxas EMR,2012,12
+5.7,180045,646,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,CA,NextGen Healthcare,NextGen Ambulatory EHR,2013,1
+2010.02.09,148297,647,Modular EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,IL,Cerner Corporation,Powerchart and Cerner Healthe,2013,1
+11.1,148297,647,Modular EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,IL,McKesson,RelayClinical? Communicator,2013,1
+1,148297,647,Modular EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,IL,Northwestern University,Northwestern Meaningful Use Data Warehouse Application for Eligible Providers,2013,1
+Summer 2009,93950,648,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,1
+Summer 2009,100816,648,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,CA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Summer 2009,88816,649,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,10
+9,7397,650,Complete EHR,1,EP,2011,ENDOCRINOLOGY,Ambulatory,Medicare,MO,eClinicalWorks LLC,eClinicalWorks,2012,1
+1,170776,651,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,Wellspan Health,WellSpan Patient Portal,2012,10
+11.2,170776,651,Modular EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,Allscripts,Allscripts Enterprise EHR,2012,10
+Summer 2009,98238,652,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+Summer 2009,97804,653,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,9
+LMR 9.0,131251,654,Complete EHR,1,EP,2012,ENDOCRINOLOGY,Ambulatory,Medicare,MA,Partners Healthcare System,Partners Longitudinal Medical Record,2012,11
+Summer 2009,118892,655,Complete EHR,2,EP,2012,CRITICAL CARE (INTENSIVISTS),Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010,118892,655,Complete EHR,2,EP,2012,CRITICAL CARE (INTENSIVISTS),Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+Summer 2009,86869,655,Complete EHR,1,EP,2011,CRITICAL CARE (INTENSIVISTS),Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,5
+5.6 SP1,32250,656,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,VA,NextGen Healthcare,NextGen Ambulatory EHR,2012,9
+10,177617,657,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,MO,Allscripts,Allscripts Professional EHR,2012,10
+3.2,123950,658,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,FL,VersaForm Systems Corp.,VersaForm EHR Certified,2012,2
+7,109761,659,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,NJ,"IO Practiceware, Inc.",IO Practiceware,2012,2
+7,109947,659,Complete EHR,2,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NJ,"IO Practiceware, Inc.",IO Practiceware,2013,1
+11.2,159367,660,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NH,Allscripts,Allscripts Enterprise EHR,2013,1
+6.4,114372,661,Complete EHR,1,EP,2011,RADIATION ONCOLOGY,Ambulatory,Medicare,KY,"MED3000, Inc",InteGreat EHR,2012,1
+2010,64152,662,Complete EHR,1,EP,2012,PULMONARY DISEASE,Ambulatory,Medicare,NY,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010,61950,663,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010,47299,663,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,8
+9,10259,664,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,HI,eClinicalWorks LLC,eClinicalWorks,2012,8
+9,6339,665,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,TX,eClinicalWorks LLC,eClinicalWorks,2011,12
+12.12,190840,666,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,TX,"athenahealth, Inc",athenaClinicals,2012,12
+2011,18411,667,Complete EHR,1,EP,2011,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,NJ,"Greenway Medical Technologies, Inc.",PrimeSuite,2011,5
+Summer 2009,88714,668,Complete EHR,1,EP,2011,OPHTHALMOLOGY,Ambulatory,Medicare,MA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,10
+Epic 2012,187743,669,Complete EHR,1,EP,2012,PEDIATRIC MEDICINE,Ambulatory,Medicare,MN,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,11
+Version 4,185289,670,Modular EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,PA,dbMotion Inc.,dbMotion,2013,1
+2010,185289,670,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+6.2,71608,671,Complete EHR,1,EP,2011,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,WV,Sage,Sage Intergy Meaningful Use Edition,2012,1
+6,111101,672,Complete EHR,1,EP,2011,NEPHROLOGY,Ambulatory,Medicare,MS,Health IT Services Group,Acumen EHR,2011,10
+6,111526,672,Complete EHR,2,EP,2012,NEPHROLOGY,Ambulatory,Medicare,MS,Health IT Services Group,Acumen EHR,2013,1
+11.2,135479,673,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WI,Allscripts,Allscripts Enterprise EHR,2013,1
+Summer 2009,97952,674,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+4.5,194513,675,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OH,Glenwood Systems LLC,GlaceEMR,2013,1
+9.5,41819,676,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MD,GE Healthcare,Centricity EMR,2012,5
+10,125100,677,Complete EHR,2,EP,2012,OPTOMETRY,Ambulatory,Medicare,MD,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2013,1
+10,124487,677,Complete EHR,1,EP,2011,OPTOMETRY,Ambulatory,Medicare,MD,Eyefinity/OfficeMate,OfficeMate/ExamWRITER,2012,1
+5.6 SP1,32000,678,Complete EHR,1,EP,2012,OPHTHALMOLOGY,Ambulatory,Medicare,NJ,NextGen Healthcare,NextGen Ambulatory EHR,2012,9
+1.1.1.0,165468,679,Complete EHR,1,EP,2012,OPTOMETRY,Ambulatory,Medicare,IN,First Insight Corp,MaximEyes SQL Electronic Health Records,2012,10
+9,9041,680,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2012,5
+11.2,158291,681,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,AL,Allscripts,Allscripts Enterprise EHR,2012,12
+2010,118020,682,Complete EHR,1,EP,2011,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,ND,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,2
+Summer 2009,118020,682,Complete EHR,1,EP,2011,PHYSICAL MEDICINE AND REHABILITATION,Ambulatory,Medicare,ND,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,2
+9,9109,683,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,MA,eClinicalWorks LLC,eClinicalWorks,2012,5
+5.6.5,127162,684,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,SD,LSS Data Systems,Medical and Practice Management (MPM) Client Server,2013,1
+19.5,66157,685,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,PA,"Community Computer Service, Inc.",MEDENT,2012,9
+2010,57115,686,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,WI,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+V11.2,173841,687,Modular EHR,1,EP,2012,PSYCHIATRY,Ambulatory,Medicare,MA,Allscripts,Allscripts Enterprise EHR,2012,6
+1,173841,687,Modular EHR,1,EP,2012,PSYCHIATRY,Ambulatory,Medicare,MA,MedCPU Inc.,Meaningful Use Advisor,2012,6
+11.2,173841,687,Complete EHR,1,EP,2012,PSYCHIATRY,Ambulatory,Medicare,MA,Allscripts,Allscripts Enterprise EHR,2012,6
+9.5,45500,688,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,OR,GE Healthcare,Centricity EMR,2013,1
+9.5,40670,688,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,OR,GE Healthcare,Centricity EMR,2012,1
+2011,22478,689,Complete EHR,1,EP,2012,CARDIOVASCULAR DISEASE (CARDIOLOGY),Ambulatory,Medicare,NJ,"Greenway Medical Technologies, Inc.",PrimeSuite,2013,1
+Summer 2009,97992,690,Complete EHR,1,EP,2012,OBSTETRICS/GYNECOLOGY,Ambulatory,Medicare,PA,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,10
+2010,61432,691,Complete EHR,2,EP,2012,PAIN MANAGEMENT,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2013,1
+2010,48302,691,Complete EHR,1,EP,2011,PAIN MANAGEMENT,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2011,12
+5.6 SP1,34810,692,Complete EHR,1,EP,2012,ORTHOPEDIC SURGERY,Ambulatory,Medicare,SC,NextGen Healthcare,NextGen Ambulatory EHR,2012,12
+4.16.1,180295,693,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,WA,"gMed, Inc.",gGastro,2012,10
+2012,174749,694,Complete EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,AL,"SOAPware, Inc.",SOAPware,2012,8
+Summer 2009,99058,695,Complete EHR,1,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,FL,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,12
+19.5,64874,696,Complete EHR,1,EP,2011,FAMILY PRACTICE,Ambulatory,Medicare,NY,"Community Computer Service, Inc.",MEDENT,2011,9
+19.5,66973,696,Complete EHR,2,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,NY,"Community Computer Service, Inc.",MEDENT,2013,1
+8.3,168968,697,Complete EHR,1,EP,2012,CHIROPRACTIC,Ambulatory,Medicare,NC,"E-Z BIS, Inc.",E-Z BIS Office,2012,12
+2,141684,698,Complete EHR,1,EP,2012,DERMATOLOGY,Ambulatory,Medicare,FL,eDerm Systems LLC,eDerm Systems Electronic Health Records and Practice Management System,2013,1
+11.2,156715,699,Complete EHR,1,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,CA,Allscripts,Allscripts Enterprise EHR,2012,5
+2,140418,700,Complete EHR,2,EP,2012,INTERNAL MEDICINE,Ambulatory,Medicare,VA,Practice Fusion,Practice Fusion,2013,1
+2,136635,700,Complete EHR,1,EP,2011,INTERNAL MEDICINE,Ambulatory,Medicare,VA,Practice Fusion,Practice Fusion,2012,1
+2010,50231,701,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,OR,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2012,5
+5.6 SP1,34046,702,Complete EHR,1,EP,2012,GENERAL SURGERY,Ambulatory,Medicare,NJ,NextGen Healthcare,NextGen Ambulatory EHR,2012,11
+9.2.2,128805,703,Complete EHR,2,EP,2012,GASTROENTEROLOGY,Ambulatory,Medicare,CO,Allscripts,Allscripts Professional EHR,2013,1
+9.2.2,127927,703,Complete EHR,1,EP,2011,GASTROENTEROLOGY,Ambulatory,Medicare,CO,Allscripts,Allscripts Professional EHR,2012,1
+V11.2,189178,704,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,Allscripts,Allscripts Enterprise EHR,2012,11
+1.4,189178,704,Modular EHR,1,EP,2012,FAMILY PRACTICE,Ambulatory,Medicare,OR,Jardogs,Follow My Health,2012,11
+9.5,41602,705,Complete EHR,1,EP,2012,NEUROLOGY,Ambulatory,Medicare,NC,GE Healthcare,Centricity EMR,2012,4
